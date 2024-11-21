@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cstring>
 using namespace std;
-
 /*
     Loops through the string till it reaches the end.
     Increases by 1 for str and for length 
